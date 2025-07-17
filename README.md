@@ -1,5 +1,5 @@
 # Sci-Adv
-This repository contains the data used for figures regarding the manuscript titled as '*Roles of bending-induced faults and subsequent hydrothermal circulation in friction estimates at the subduction plate interface*'.
+This repository contains the data used for figures regarding the manuscript titled as '*Post-subduction bending-induced faults and hydrothermal circulation provide misleading estimates of friction in subduction zones*'.
 
 The content of each file can be identified by the file name, as described below.  
 
